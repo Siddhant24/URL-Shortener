@@ -1,24 +1,26 @@
 # URL Shortener
 
-API service
+### API service
 
-Example creation usage:
+---
 
-https://tiny-url.glitch.me/new/https://www.google.com
+### Example creation usage:
 
-https://tiny-url.glitch.me/new/http://foo.com:80/bar/alpha/beta 
+`https://tiny-url.glitch.me/new/https://www.google.com
 
-
-Example creation output:
-
-{"hash":"n1575","original":"https://www.google.com","_id":"595bf523637653346530d289"} 
+https://tiny-url.glitch.me/new/http://foo.com:80/bar/alpha/beta `
 
 
-Usage:
+### Example creation output:
 
-https://tiny-url.glitch.me/n1575 
+```{"hash":"n1575","original":"https://www.google.com","_id":"595bf523637653346530d289"} ```
 
 
-Will redirect to:
+### Usage:
 
-https://www.google.com
+`https://tiny-url.glitch.me/n1575 `
+
+
+### Will redirect to:
+
+`https://www.google.com`
