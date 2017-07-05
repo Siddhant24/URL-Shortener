@@ -6,7 +6,7 @@
 
 ### Example creation usage:
 
-`https://tiny-url.glitch.me/new/https://www.google.com
+` https://tiny-url.glitch.me/new/https://www.google.com
 
 https://tiny-url.glitch.me/new/http://foo.com:80/bar/alpha/beta `
 
